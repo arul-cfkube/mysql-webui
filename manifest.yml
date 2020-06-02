@@ -6,6 +6,6 @@ applications:
   random-route: true
   path: ./target/PivotalMySQLWeb-1.0.0-SNAPSHOT.jar
   services:
-    - pas-mysql
+    - vets-db
   env:
     JAVA_OPTS: -Djava.security.egd=file:///dev/urandom

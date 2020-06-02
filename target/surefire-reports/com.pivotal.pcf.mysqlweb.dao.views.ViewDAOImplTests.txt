@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.pivotal.pcf.mysqlweb.dao.views.ViewDAOImplTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.883 s - in com.pivotal.pcf.mysqlweb.dao.views.ViewDAOImplTests
